@@ -12,3 +12,9 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+So many code, so little time
+I have not failed. I've just found 10,000 lines of shitty code
+That glitch that doesn't kill us strengthens us
+If you judge users, you have no time to love them
+I'm not afraid of bugs; I just don't want to be there when it happens
+The programming of too many useless things results in too many usefull devs
